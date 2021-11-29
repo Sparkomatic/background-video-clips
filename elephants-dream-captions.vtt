@@ -1,6 +1,10 @@
 WEBVTT
 
-::cue { color:lime }
+STYLE
+::cue {
+  background-image: linear-gradient(to bottom, dimgray, lightgray);
+  color: papayawhip;
+}
 
 1
 00:00:15.000 --> 00:00:17.951 position:10%,line-left align:left size:35%
