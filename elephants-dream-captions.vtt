@@ -4,7 +4,7 @@ STYLE
 ::cue {
   background-image: linear-gradient(to bottom, dimgray, lightgray);
   color: papayawhip;
-  line:50%;
+  line:70%;
 }
 
 1
