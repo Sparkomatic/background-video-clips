@@ -1,8 +1,9 @@
 WEBVTT
 
+::cue { color:lime }
 
 1
-00:00:15.000 --> 00:00:17.951 position:10%,line-left align:left size:35%, color:red
+00:00:15.000 --> 00:00:17.951 position:10%,line-left align:left size:35%
 At the left we can see...
 
 2
