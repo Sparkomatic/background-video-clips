@@ -1,8 +1,8 @@
 WEBVTT
 
 STYLE
-::cue(v[voice="Proog"]) { color: cyan, top: 100 }
-::cue(v[voice="Emo"]) { color: lime, top: "50px" }
+::cue(v[voice="Proog"]) { color: cyan, position: 50% }
+::cue(v[voice="Emo"]) { color: lime }
 
 1
 00:00:15.000 --> 00:00:18.000
