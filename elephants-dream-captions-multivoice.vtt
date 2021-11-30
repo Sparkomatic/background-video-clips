@@ -1,5 +1,9 @@
 WEBVTT
 
+STYLE
+::cue(v[voice="Proog"]) { color: cyan }
+::cue(v[voice="Emo"]) { color: lime }
+
 1
 00:00:15.000 --> 00:00:18.000 align:start
 <v Proog>At the left we can see...</v>
