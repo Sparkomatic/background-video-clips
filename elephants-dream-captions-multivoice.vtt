@@ -1,7 +1,8 @@
 WEBVTT
 
 STYLE
-::cue(v[voice="Proog"]) { color: cyan, paddingBottom: 100px  }
+::cue { width: max-content }
+::cue(v[voice="Proog"]) { color: cyan, padding-bottom: 100px  }
 ::cue(v[voice="Emo"]) { color: lime }
 
 1
