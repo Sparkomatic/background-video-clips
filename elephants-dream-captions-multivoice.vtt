@@ -1,15 +1,15 @@
 WEBVTT
 
 STYLE
-::cue(v[voice="Proog"]) { color: cyan }
-::cue(v[voice="Emo"]) { color: lime }
+::cue(v[voice="Proog"]) { color: cyan, top: 100 }
+::cue(v[voice="Emo"]) { color: lime, top: "50px" }
 
 1
-00:00:15.000 --> 00:00:18.000 align:start
+00:00:15.000 --> 00:00:18.000
 <v Proog>At the left we can see...</v>
 
 2
-00:00:18.167 --> 00:00:20.083 align:middle
+00:00:18.167 --> 00:00:20.083
 <v Proog>At the right we can see the...</v>
 
 3
