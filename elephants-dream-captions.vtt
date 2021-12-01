@@ -4,8 +4,8 @@ STYLE
 ::cue {
   background-image: linear-gradient(to bottom, dimgray, lightgray);
   color: green;
-  top: 50%;
-  left: 50%;
+  top: 300;
+  left: 100;
   transform: translate(-50%, -50%);
 }
 
