@@ -7,6 +7,7 @@ STYLE
   top: 300;
   left: 100;
   transform: translate(-50%, -50%);
+  line:70%
 }
 
 1
